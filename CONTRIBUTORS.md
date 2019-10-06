@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Shekhar Singh Choudhary](https://github.com/shekhar-singh)
+- Place: Dhanbad, Jharkhand
+- Bio: Software Engineer.
+- GitHub: [shekhar-singh](https://github.com/shekhar-singh)
+
